@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421076313479",
+    "project_id": "flutter-midterm-b5ec2",
+    "storage_bucket": "flutter-midterm-b5ec2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421076313479:android:7406d9a54368a138f1df22",
+        "android_client_info": {
+          "package_name": "com.example.flutter_midterm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421076313479-fc02sdrqujqcdkt9uptnv5krptghjiis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW3ThKx7b-SOi5NgmFpr5cGxV4RlHv3QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421076313479-fc02sdrqujqcdkt9uptnv5krptghjiis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
